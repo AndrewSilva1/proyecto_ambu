@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
@@ -8,7 +9,9 @@ class HomePage extends StatelessWidget {
         title: Text('AMBU'),
 
       ),
-      body: Center,
+      body: Center(
+        child: Text('aweonao'),
+      ),
     );
   }
 }

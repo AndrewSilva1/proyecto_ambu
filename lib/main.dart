@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:proyecto_ambu/pages/home/home_page.dart';
 
 void main() {
   runApp(MyApp());
